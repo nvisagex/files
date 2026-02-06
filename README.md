@@ -1,4 +1,4 @@
-This repository is used internally by nvisage SW.
+This repository is used internally by NVisage SW.
 
 Updates should be handled through the software.
 
